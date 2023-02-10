@@ -1,4 +1,4 @@
 # RPS
 RPS Game
-Live demo
+[Live demo](https://jzuliek.github.io/RPS/)
 https://jzuliek.github.io/RPS/
